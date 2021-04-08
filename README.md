@@ -1,2 +1,6 @@
 # WebTechAssan
-Assan Mambediyev CS 2006. Practice 1
+
+Assan Mambediyev 
+CS 2006. 
+Practice 1
+Site
